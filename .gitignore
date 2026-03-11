@@ -1,0 +1,6 @@
+﻿bin/
+obj/
+*.user
+.vs/
+FLUX_KEYS_500.txt
+%AppData%/Flux/
