@@ -1,9 +1,9 @@
-// AUTO-GENERATED — DO NOT EDIT
+
 namespace Flux.Core
 {
     public static class ValidKeys
     {
-        // SHA-256 hashes of the 500 valid license keys
+
         public static readonly HashSet<string> Hashes = new(StringComparer.OrdinalIgnoreCase)
         {
             "57002ec373596f0462e8c81a07ad09fc156a16bdb62a2777bcbb4a7e67ed17ee",
